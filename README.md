@@ -1,1 +1,1 @@
-# JavascriptCamp
+# Javascript Camp
